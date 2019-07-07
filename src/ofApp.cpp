@@ -21,14 +21,15 @@ void ofApp::setup(){
 void ofApp::update(){
     
     
-    ofSleepMillis(30);
+    //ofSleepMillis(30);
     img1.update();
     
     
-    ss= 1 + t * 0.01;
+    ss= 1 + t * 0.001;
     
     t += 1;
-    if(t > 500) t = 0;
+    if(t > 9500) t = 0;
+    
     
 }
 
@@ -40,7 +41,7 @@ void ofApp::draw(){
     ofSetColor(255, 255, 255);
     //ofScale(4.0f, 4.0f, 1.0f);
     ofScale(ss);
-    img1.draw(xx-t*0.5, yy-t*0.5);
+    img1.draw(xx-t*0.05, yy-t*0.05);
     
 }
 
