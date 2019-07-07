@@ -1,5 +1,5 @@
 # ofxFaceKenburns
-face based KenBurns Effects for Openframeworks
+Face based KenBurns Effects for Openframeworks
 
 ![example]( https://github.com/bemoregt/ofxfaceKenburns/blob/master/test.jpg "Example Screenshot")
 - Screenshot
