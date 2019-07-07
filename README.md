@@ -4,7 +4,7 @@ face based KenBurns Effects for Openframeworks
 ![example]( https://github.com/bemoregt/ofxfaceKenburns/blob/master/test.jpg "Example Screenshot")
 - Screenshot
 
-![move example]( https://github.com/bemoregt/ofxfaceKenburns/blob/master/test.mov "Example Screenshot")
+![movie example]( https://github.com/bemoregt/ofxfaceKenburns/blob/master/test.mov "Example Screenshot")
 - Test video 
 
 ### Dependency
