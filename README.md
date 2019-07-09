@@ -16,6 +16,7 @@ Face based KenBurns Effects for Openframeworks
 
 ### Next Plan
 - face object detection
+- interpolation using ofLerp 
 - full screen saver.
 - multiple images.
 - all to face, all to eye, face to all, face to face kenburns.
